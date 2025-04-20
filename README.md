@@ -1,6 +1,6 @@
 # DigitalSkillFair38-Data-Science
 
-## Project Data Science
+## Project Data Science - Salsabila Qonita Kaltsum
 
 ### Titanic Data Investigation
 
